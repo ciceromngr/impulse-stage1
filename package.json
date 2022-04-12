@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/ciceromngr/impulse-stage1.git",
   "author": "Cicero Romao <cicerotransformice@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "prisma": "^3.12.0",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.3"
+  }
 }
