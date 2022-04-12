@@ -1,0 +1,8 @@
+{
+  "name": "impulse-stage1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ciceromngr/impulse-stage1.git",
+  "author": "Cicero Romao <cicerotransformice@gmail.com>",
+  "license": "MIT"
+}
